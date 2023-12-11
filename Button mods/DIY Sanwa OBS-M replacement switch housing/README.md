@@ -96,5 +96,7 @@ Insert M3*16 screws into the screw holes. Fittment will be tight, and gentle pre
 
 ![Video of Button test](https://github.com/CapnHawke/Arcade-Addons/blob/main/Button%20mods/Images/Video_20231210_Button%20test.mp4)
 
+Installed in Sanwa OBSF buttons, this mod will require an internal case clearance of at least 1.45 inches. 
+
 Enjoy!
 

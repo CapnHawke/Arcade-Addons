@@ -8,3 +8,5 @@ The screws used to hold the original aux panel in place can be used to hold this
 5. Screw assembly into place using original aux panel screws.
 6. Drop in 12mm buttons and tighten with included button screw nuts.
 7. Wire screen and aux buttons to your encoder.
+
+![HORI V3-SA/VX-SA Aux Panel](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/V3-SA%20aux%20panel.png)

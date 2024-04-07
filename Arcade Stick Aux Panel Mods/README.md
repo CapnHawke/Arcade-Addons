@@ -1,3 +1,16 @@
+## Attribution
+
+The following text must be included in any distribution of derivatives of this file. All Links must also be included.
+
+Copyright 2024 [Hawkeye](https://github.com/CapnHawke)
+
+[Licensed under CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
+
+Changes from the original design:
+ - list any changes you make here
+
+##Summary
+
 V3-SA Aux Panel mod is designed as a drop-in solution which can replace the existing panel V3-SA turbo slider panel. There are six 12mm button holes which are large enough to accommodate 12mm buttons, such as Daiertek buttons available on Amazon.com. There is a window for a 128x64 I2C OLED screen. 
 
 The screws used to hold the original aux panel in place can be used to hold this replacement aux panel in place. Assembly is as follows: 

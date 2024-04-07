@@ -11,7 +11,7 @@ Copyright 2024 [Hawkeye](https://github.com/CapnHawke)
 Changes from the original design:
  - list any changes you make here
 
-##Summary
+## Summary
 
 The Qanba JCV8 is a lever that uses Cherry Speed Silver switches. The stems of the switches are narrow, and the spacing between the switches is wide. The actuator included with the joystick is round. As a result, the actuator cannot depress two adjacent switches simultaneously, unless it travels very deep into the diagonal. On a Qanba square gate, for example, a diagonal input cannot be pressed unless the actuator is contacting the corner of the gate. Reaching diagonal inputs requires an extremely high level of precision and necessitates contacting the gate. This results in a less user-friendly experience. 
 
@@ -86,8 +86,8 @@ Supports:
 ## Visual guide information
 
 Below is a render of the acutator.
-![Squareish Actuator render](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade-Addons/Lever%20mods/images/image.png)
+![Squareish Actuator render](https://github.com/CapnHawke/Arcade-Addons/blob/main/Lever%20mods/images/image.png)
 
 Below is an example image of the actuator installed in a JCV8, prior to screwing the gate back on. 
-![Actuator installed](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade-Addons/Lever%20mods/images/IMG_7519.jpg)
+![Actuator installed](https://github.com/CapnHawke/Arcade-Addons/blob/main/Lever%20mods/images/IMG_7519.jpg)
 

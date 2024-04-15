@@ -91,3 +91,5 @@ Below is a render of the acutator.
 Below is an example image of the actuator installed in a JCV8, prior to screwing the gate back on. 
 ![Actuator installed](https://github.com/CapnHawke/Arcade-Addons/blob/main/Lever%20mods/images/IMG_7519.jpg)
 
+## Disclaimer
+These files and instructions are provided as-is, and without warranty. Your results may vary, and by using these files and instructions, you assume the risks associated with that activity. 

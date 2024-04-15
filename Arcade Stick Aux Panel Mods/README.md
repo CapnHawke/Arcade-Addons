@@ -23,3 +23,6 @@ The screws used to hold the original aux panel in place can be used to hold this
 7. Wire screen and aux buttons to your encoder.
 
 ![HORI V3-SA/VX-SA Aux Panel](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/V3-SA%20aux%20panel.png)
+
+## Disclaimer
+These files and instructions are provided as-is, and without warranty. Your results may vary, and by using these files and instructions, you assume the risks associated with that activity. 

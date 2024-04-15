@@ -100,3 +100,5 @@ Installed in Sanwa OBSF buttons, this mod will require an internal case clearanc
 
 Enjoy!
 
+## Disclaimer
+These files and instructions are provided as-is, and without warranty. Your results may vary, and by using these files and instructions, you assume the risks associated with that activity. 

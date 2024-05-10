@@ -1,5 +1,5 @@
-![PFCT MX 3 Aux board](https://github.com/CapnHawke/Arcade-Controller-Mods/blob/Arcade-Controller-Mods/Button%20mods/Open%20Source%20Button%20solutions/AllFightSticks%20Aux%20Panel%20PCB/Images/PFCT%203aux%20design%20render.png)
-![PFCT MX 3 Aux install](https://github.com/CapnHawke/Arcade-Controller-Mods/blob/Arcade-Controller-Mods/Button%20mods/Open%20Source%20Button%20solutions/AllFightSticks%20Aux%20Panel%20PCB/Images/install.jpg)
+![PFCT MX 3 Aux board](https://github.com/CapnHawke/Arcade-Addons/blob/main/Button%20mods/Open%20Source%20Button%20solutions/AllFightSticks%20Aux%20Panel%20PCB/Images/PFCT%203aux%20design%20render.png)
+![PFCT MX 3 Aux install](https://github.com/CapnHawke/Arcade-Addons/blob/main/Button%20mods/Open%20Source%20Button%20solutions/AllFightSticks%20Aux%20Panel%20PCB/Images/Install.jpg)
 
 ## Attribution
 

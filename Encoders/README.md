@@ -1,7 +1,7 @@
 # FP BBB-H version 1.1
 
 ![rp2040_BBB-H-FP-v1.1](https://github.com/CapnHawke/Arcade-Addons/blob/main/Encoders/Assets/Completed%20board.jpg)
-![rp2040_BBB-H-FP-v1.1 drawing](https://github.com/CapnHawke/Arcade-Addons/blob/main/Encoders/Assets/RP2040-BBB-H%20drawing.png)
+
 ---
 
 ## Attribution
@@ -125,6 +125,8 @@ If something goes wrong and you want to upload the firmware again (or if you hav
 Open the folder `Design files` and download the provided .json file. Load the file into EasyEDA. Navigate to your "Layers and Objects" pane and ensure that you are working on the TopLayer. Delete the image of the Frame Perfect Logo. Then, in your "Layers and Objects" pane, and select "TopSolderMaskLayer" and delete the image of the Frame Perfect Logo on top solder mask as well. 
 
 While still working in the Top Solder Mask layer, navigate to the "Place" dropdown menu and select `Place > Image`. Import your own image into the design, and set it in the area designated for the logo. Copy the placed image and onto the top layer. Review both copies of the new logo to ensure that all the placement data is matching, including X and Y location, height, and width.
+
+![rp2040_BBB-H-FP-v1.1 drawing](https://github.com/CapnHawke/Arcade-Addons/blob/main/Encoders/Assets/RP2040-BBB-H%20drawing.png)
 
 ## Donations
 

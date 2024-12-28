@@ -30,10 +30,10 @@ The screws used to hold the original aux panel in place can be used to hold this
 ![HORI V3-SA/VX-SA 12mm button Aux Panel](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/V3-SA%20aux%20panel.png)
 
 Cherry MX Aux Panel (flat):
-![HORI V3-SA/VX-SA MX switch Aux Panel flat](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20Variations/suggested%20print%20orientation%20flat.png)
+![HORI V3-SA/VX-SA MX switch Aux Panel flat](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20variations/Suggested%20print%20orientation%20flat.png)
 
 Cherry MX Aux Panel (angled screen):
-![HORI V3-SA/VX-SA MX switch Aux Panel angled](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20Variations/suggested20%print%20orientation%20angled.png)
+![HORI V3-SA/VX-SA MX switch Aux Panel angled](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20variations/suggested20%print%20orientation%20angled.png)
 
 ## Disclaimer
 These files and instructions are provided as-is, and without warranty. Your results may vary, and by using these files and instructions, you assume the risks associated with that activity. 

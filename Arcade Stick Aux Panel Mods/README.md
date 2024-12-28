@@ -11,9 +11,9 @@ Changes from the original design:
 
 ## Summary
 
-V3-SA Aux Panel mod is designed as a drop-in solution which can replace the existing panel V3-SA turbo slider panel. There are six 12mm button holes which are large enough to accommodate 12mm buttons, such as Daiertek buttons available on Amazon.com. There is a window for a 128x64 I2C OLED screen. 
+V3-SA Aux Panel mod is designed as a drop-in solution which can replace the existing panel V3-SA turbo slider panel. One variation has six 12mm button holes which are large enough to accommodate 12mm buttons, such as Daiertek buttons available on Amazon.com. There is a window for a 128x64 I2C OLED screen. Other variations are provided with holes sized for MX keyboard switches.
 
-The screen used for this mod was purchased here: [OLED link](https://www.aliexpress.us/item/2251832770994631.html). It is the "new" style, which has a smaller PCB than the "original" style.
+The screen used for this mod was purchased here: [OLED link](https://www.aliexpress.us/item/2251832770994631.html). It is the "new" style, which has a smaller PCB than the "original" style. Screw holes might not align if a different screen is used.
 
 The screws used to hold the original aux panel in place can be used to hold this replacement aux panel in place. Assembly is as follows: 
 1. Remove entire aux panel and turbo slider PCB.
@@ -30,10 +30,10 @@ The screws used to hold the original aux panel in place can be used to hold this
 ![HORI V3-SA/VX-SA 12mm button Aux Panel](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/V3-SA%20aux%20panel.png)
 
 Cherry MX Aux Panel (flat):
-![HORI V3-SA/VX-SA MX switch Aux Panel flat](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20Variations/suggested%20print%20orientation.png)
+![HORI V3-SA/VX-SA MX switch Aux Panel flat](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20Variations/suggested%20print%20orientation%20flat.png)
 
 Cherry MX Aux Panel (angled screen):
-![HORI V3-SA/VX-SA MX switch Aux Panel angled](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20Variations/suggested20%print%20orientation%20(angled).png)
+![HORI V3-SA/VX-SA MX switch Aux Panel angled](https://github.com/CapnHawke/Arcade-Addons/blob/main/Arcade%20Stick%20Aux%20Panel%20Mods/Images/MX%20Variations/suggested20%print%20orientation%20angled.png)
 
 ## Disclaimer
 These files and instructions are provided as-is, and without warranty. Your results may vary, and by using these files and instructions, you assume the risks associated with that activity. 
